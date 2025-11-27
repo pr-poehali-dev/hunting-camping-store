@@ -91,7 +91,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-bold flex items-center gap-2">
               <Icon name="Mountain" size={28} />
-              ПроОхота
+              BIVEN
             </h1>
             <div className="flex gap-6">
               {['catalog', 'delivery', 'about', 'contacts'].map((section) => (
@@ -233,7 +233,7 @@ export default function Index() {
           <h2 className="text-4xl font-bold mb-8 text-center">О магазине</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-              <strong>ПроОхота</strong> — специализированный магазин товаров для охоты и кемпинга. 
+              <strong>BIVEN</strong> — специализированный магазин товаров для охоты и кемпинга. 
               Мы работаем с 2015 года и знаем всё о качественном снаряжении для активного отдыха на природе.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
@@ -293,7 +293,7 @@ export default function Index() {
         <div className="container mx-auto px-4 text-center">
           <p className="flex items-center justify-center gap-2 mb-2">
             <Icon name="Mountain" size={24} />
-            <span className="font-semibold text-lg">ПроОхота</span>
+            <span className="font-semibold text-lg">BIVEN</span>
           </p>
           <p className="text-sm opacity-80">© 2024 Все права защищены</p>
         </div>
